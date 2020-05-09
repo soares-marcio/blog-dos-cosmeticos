@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "021aa0bd7ac2030e1490081fd1f80db4",
+    "revision": "c7c05dd23cd7d6f72b402866d973a8bc",
     "url": "/blog-dos-cosmeticos/index.html"
   },
   {
-    "revision": "0c107031163c399fa1a4",
+    "revision": "aab3c169343b3d5da383",
     "url": "/blog-dos-cosmeticos/static/css/main.768a2624.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blog-dos-cosmeticos/static/js/2.fc165caa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c107031163c399fa1a4",
-    "url": "/blog-dos-cosmeticos/static/js/main.49bc27df.chunk.js"
+    "revision": "aab3c169343b3d5da383",
+    "url": "/blog-dos-cosmeticos/static/js/main.85f9d820.chunk.js"
   },
   {
     "revision": "eb8c5da733542b55fc37",
