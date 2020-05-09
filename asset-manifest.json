@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/blog-dos-cosmeticos/static/css/main.768a2624.chunk.css",
-    "main.js": "/blog-dos-cosmeticos/static/js/main.c57a0cef.chunk.js",
-    "main.js.map": "/blog-dos-cosmeticos/static/js/main.c57a0cef.chunk.js.map",
+    "main.js": "/blog-dos-cosmeticos/static/js/main.cf3f17ec.chunk.js",
+    "main.js.map": "/blog-dos-cosmeticos/static/js/main.cf3f17ec.chunk.js.map",
     "runtime-main.js": "/blog-dos-cosmeticos/static/js/runtime-main.55705190.js",
     "runtime-main.js.map": "/blog-dos-cosmeticos/static/js/runtime-main.55705190.js.map",
-    "static/js/2.fc165caa.chunk.js": "/blog-dos-cosmeticos/static/js/2.fc165caa.chunk.js",
-    "static/js/2.fc165caa.chunk.js.map": "/blog-dos-cosmeticos/static/js/2.fc165caa.chunk.js.map",
+    "static/js/2.8e1570fb.chunk.js": "/blog-dos-cosmeticos/static/js/2.8e1570fb.chunk.js",
+    "static/js/2.8e1570fb.chunk.js.map": "/blog-dos-cosmeticos/static/js/2.8e1570fb.chunk.js.map",
     "index.html": "/blog-dos-cosmeticos/index.html",
-    "precache-manifest.26ab735960094010990de8b4aee67c8b.js": "/blog-dos-cosmeticos/precache-manifest.26ab735960094010990de8b4aee67c8b.js",
+    "precache-manifest.0ad1ee04cabcde5afe55458f940b7d06.js": "/blog-dos-cosmeticos/precache-manifest.0ad1ee04cabcde5afe55458f940b7d06.js",
     "service-worker.js": "/blog-dos-cosmeticos/service-worker.js",
     "static/css/main.768a2624.chunk.css.map": "/blog-dos-cosmeticos/static/css/main.768a2624.chunk.css.map",
-    "static/js/2.fc165caa.chunk.js.LICENSE.txt": "/blog-dos-cosmeticos/static/js/2.fc165caa.chunk.js.LICENSE.txt"
+    "static/js/2.8e1570fb.chunk.js.LICENSE.txt": "/blog-dos-cosmeticos/static/js/2.8e1570fb.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/blog-dos-cosmeticos/static/media/logo.cf1b0521.png"
   },
   "entrypoints": [
     "static/js/runtime-main.55705190.js",
-    "static/js/2.fc165caa.chunk.js",
+    "static/js/2.8e1570fb.chunk.js",
     "static/css/main.768a2624.chunk.css",
-    "static/js/main.c57a0cef.chunk.js"
+    "static/js/main.cf3f17ec.chunk.js"
   ]
 }
