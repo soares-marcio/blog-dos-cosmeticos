@@ -1,5 +1,5 @@
 $(function(){
-	var youtube_api_key = 'YOUR_API_KEY';
+	var youtube_api_key = 'AIzaSyCmCrZBRdvwpMMOf9-ERryP9ViahjYzPec';//process.env.YOUTUBE_API_KEY;
 
 	var loading = {
 		show: function() {
@@ -482,7 +482,6 @@ $(function(){
 	var magnificGallery = function() {
 		$('[data-magnific="gallery"]').each(function(){
 			var $this = $(this);
-
 			$this.magnificPopup({
 				type: 'image',
 				delegate: 'a',

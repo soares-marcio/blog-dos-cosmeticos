@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/blog-dos-cosmeticos/precache-manifest.0ad1ee04cabcde5afe55458f940b7d06.js"
+  "/blog-dos-cosmeticos/precache-manifest.bffe074453b728605385979fba166dde.js"
 );
 
 self.addEventListener('message', (event) => {
